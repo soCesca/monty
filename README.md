@@ -2,7 +2,7 @@
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
-This project was built by Lady Francesca Lynn Asiedu Asare
+This project was built by Lawrence Adams and Esther Asare
 
 # Table of Contents
 1. [Authors](#Authors)
@@ -11,11 +11,11 @@ This project was built by Lady Francesca Lynn Asiedu Asare
 3. [Brainfuck](#Brainfuck)
 
 # Authors
- í±¤ **Lady Francesca Lynn Asiedu Asare**
+ ðŸ‘¤ **Lawrence Adams**
+ ðŸ‘¤ **Esther Asare**
 
-
-- 
-- Github: [@soCesca](https://github.com/soCesca)
+- Github: [@theclubfoot](https://github.com/theclubfoot)
+- Github: [@Efisassy](https://github.com/Efisassy)
 
 
 # Features
@@ -72,3 +72,13 @@ This repository includes 4 files with Brainfuck implementations.
 - Multiply two digits given by the user + print a new line at the end.
 
 ## How to compile
+
+$ bf ./1001-add.bf
+
+### Requirements
+
+ - compile on Ubuntu 20.04 LTS
+ - compile with bf
+ ```bash
+ $ apt-get install bf 
+ ```
