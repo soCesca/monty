@@ -2,20 +2,13 @@
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
-This project was built by Lawrence Adams and Esther Asare
+This project was built by Lady Francesca Lynn Asiedu-Asare
 
 # Table of Contents
 1. [Authors](#Authors)
 2. [Features](#Features)
 3. [How Use](#How-Use)
-3. [Brainfuck](#Brainfuck)
 
-# Authors
- 👤 **Lawrence Adams**
- 👤 **Esther Asare**
-
-- Github: [@theclubfoot](https://github.com/theclubfoot)
-- Github: [@Efisassy](https://github.com/Efisassy)
 
 
 # Features
